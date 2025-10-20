@@ -1,2 +1,9 @@
-﻿oi..
-tudo bem?
+git init /criar o repositório local
+
+git remote add origin /link do github
+
+git add .
+
+git commit -m "mensagem de commit"
+
+git push origin main
